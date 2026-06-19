@@ -2,8 +2,8 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'SaúdeGPT Psicologia — Em Breve',
-  description: 'Curso de Psicologia com IA. Preparatório para o CRP. Em breve.',
+  title: 'SaúdeGPT Psicologia — Curso Completo de Psicologia com IA',
+  description: 'Curso completo de Psicologia com suporte de inteligência artificial. Avaliação Psicológica, Psicoterapias, Neuropsicologia e preparatório CRP. Inscreva-se!',
 }
 
 export default function RootLayout({
